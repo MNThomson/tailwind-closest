@@ -6,4 +6,4 @@
 </p>
 
 ### why?
-I was getting annoyed trying to convert hex codes to [Tailwind Colours](https://tailwindcss.com/docs/customizing-colours) (yes, I'm Canadian and that's how it's spelled). So I just did some funky 3D Pythagoras to find the closest Tailwind representation.
+I was getting annoyed trying to convert hex codes to [Tailwind Colours](https://tailwindcss.com/docs/customizing-colors) (yes, I'm Canadian and that's how it's spelled). So I just did some funky 3D Pythagoras to find the closest Tailwind representation.
